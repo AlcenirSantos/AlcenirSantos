@@ -70,11 +70,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/AlcenirSantos/ponto-venda-rapida">
+  <a href="https://github.com/atual-sistemas/erp-app">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AlcenirSantos&repo=ponto-venda-rapida&theme=tokyonight&description=Checkout web">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AlcenirSantos&repo=erp-app&theme=tokyonight&description=Integra+">
     </img>
   </a>
 </p>
