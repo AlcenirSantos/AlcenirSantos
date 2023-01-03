@@ -4,10 +4,6 @@
     </a>
   </p>
   <p align="center">
- 
-   <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
    </a>
@@ -76,11 +72,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/atual-sistemas/erp-app">
+  <a href="https://github.com/alcenirSantos/list-films">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AlcenirSantos&repo=erp-app&theme=tokyonight&description=Integra+">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AlcenirSantos&repo=list-films&theme=tokyonight&description=Integra+">
     </img>
   </a>
 </p>
@@ -94,7 +90,7 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-   <a href="https://linkedin.com/in/AlcenirSantos" target="_blank">
+   <a href="https://linkedin.com/in/Alcenir-Santos" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
